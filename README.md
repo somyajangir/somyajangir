@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Somya Jangir</h1>
-<h3 align="center">AI & ML Enthusiast | B.Tech CSE @ IIT Jodhpur</h3>
+<h3 align="center">AI & ML Enthusiast | B.Tech @ IIT Jodhpur</h3>
 
 ---
 
 ### 🔍 About Me  
 
-- 🎓 B.Tech CSE student at *IIT Jodhpur* (2023–present)  
+- 🎓 B.Tech student at *IIT Jodhpur* (2023–present)  
 - 🌱 Currently exploring *LLMs, RAG Pipelines, and System Design*  
 - 💬 Ask me about *Python, C++, AI/ML, Deep Learning, and GenAI*  
 - 💼 Open to *internships, collaborations, and research opportunities*  
