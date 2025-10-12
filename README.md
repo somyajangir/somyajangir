@@ -6,8 +6,8 @@
 ### 🔍 About Me  
 
 - 🎓 B.Tech student at *IIT Jodhpur* (2023–present)  
-- 🌱 Currently exploring *LLMs, RAG Pipelines, and System Design*  
-- 💬 Ask me about *Python, C++, AI/ML, Deep Learning, and GenAI*  
+- 🌱 Currently exploring *LLMs, RAG Pipelines, System Design, and Agentic AI*  
+- 💬 Ask me about *Python, C++, AI/ML, Deep Learning, GenAI, n8n Automations*  
 - 💼 Open to *internships, collaborations, and research opportunities*  
 - 📫 Reach me via: somyajangir21@gmail.com | [LinkedIn](https://www.linkedin.com/in/somya-jangir)  
 - ⚡ Fun fact: I love building AI systems that combine theory with practical applications 🚀  
@@ -16,20 +16,23 @@
 
 ### 🛠️ Featured Projects  
 
+- 📖 **[PaperQA Tutor – Page-wise Research Assistant](https://github.com/somyajangir/PaperQA-Tutor-Page-wise-Research-Assistant)**  
+  *AI-powered research assistant for PDFs with page-wise summaries, local offline summarization, RAG-based Q&A, quiz generation, TTS playback, and performance tracking.*  
+
 - 📚 **[Multi-PDF Chat Assistant with RAG](https://github.com/somyajangir/Chat-with-Multiple-PDFs-using-RAG-and-Gemini-Flash)**  
-  *Built a full RAG pipeline for conversational Q&A on multiple PDFs with FAISS and Gemini Flash.*  
+  *Conversational Q&A on multiple PDFs using FAISS and Gemini Flash.*  
 
 - 📊 **[Startup Funding in India – Research Paper](https://drive.google.com/file/d/1RbE3B4pXKJ1etx7VPixXjC62H8rkc9-Y/view?usp=sharing)**  
-  *Performed data-driven analysis of 585 startups to identify key investment factors.*  
+  *Data-driven analysis of 585 startups to identify key investment factors.*  
 
 - 🧾 **[Fine-Tuning Gemma-2B for Medical Summarization](https://github.com/somyajangir/Fine-Tuning-Gemma-2B-for-Medical-Summarization)**  
-  *Used PEFT (LoRA + QLoRA) to fine-tune Gemma-2B for clinical note summarization.*  
+  *PEFT (LoRA + QLoRA) fine-tuning of Gemma-2B for clinical note summarization.*  
 
 - 🗣️ **[Voice-enabled Conversational Chatbot](https://github.com/somyajangir/Voice-Enabled-Interactive-Chatbot)**  
-  *Real-time chatbot with STT + TTS + Gemini API for multi-turn voice conversations.*  
+  *Real-time voice chatbot with STT + TTS + Gemini API for multi-turn conversations.*  
 
 - 🩻 **COVID-19 Detection with X-ray Images (ResNet)**  
-  *Implemented a CNN-based classifier with data augmentation for robust predictions.*  
+  *CNN-based classifier with data augmentation for robust predictions.*  
 
 ---
 
@@ -44,6 +47,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AgenticAI-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
 </p>  
 
 ---
@@ -61,9 +66,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyajangir&layout=compact&theme=tokyonight" />
 </p>  
-
----
-
-<!--
-somyajangir/somyajangir is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
