@@ -202,12 +202,7 @@ Deep learning classifier for medical imaging using transfer learning and robust 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/somyajangir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somyajangir&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyajangir&layout=compact&theme=tokyonight" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=somyajangir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
 ---
