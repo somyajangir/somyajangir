@@ -58,7 +58,7 @@ Python • C++ • C • SQL
 > Intelligent AI agent helping users **master research papers** with page-by-page guidance, contextual explanations, and performance tracking.
 
 **Key Features:**
-- 📄 Hierarchical RAG — Page-level + document-level retrieval
+- 📄 RAG — Page-level + document-level retrieval
 - 🔤 Sentence Transformers — High-quality embeddings + vector database
 - 🎯 Fine-tuned Gemma (LoRA) — Offline summarization capability
 - ✨ Gemini Flash — Explanations, quiz generation, and grading
