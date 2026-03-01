@@ -43,7 +43,7 @@ CNN • RNN • LSTM • Transfer Learning • Computer Vision • Speech Proces
 PyTorch • Scikit-learn • Pandas • NumPy • Statistical Analysis
 
 **Engineering**  
-FastAPI • PostgreSQL • LangChain • Streamlit • Docker • Redis
+FastAPI • PostgreSQL • LangChain • Streamlit 
 
 **Languages**  
 Python • C++ • C • SQL
