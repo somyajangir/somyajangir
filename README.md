@@ -1,197 +1,244 @@
-<h1 align="center">Hi 👋, I'm Somya Jangir</h1>
-<h3 align="center">AI & ML Engineer | Multi-Agent Systems | LLMs | B.Tech @ IIT Jodhpur</h3>
+# 👋 Somya Jangir | AI & ML Engineer
 
-<p align="center">
-Building practical AI systems that combine research, system design, and real-world deployment.
-</p>
+<div align="center">
 
----
+### 🚀 Building Intelligent Systems That Think, Learn & Deploy
 
-## 🧠 About Me  
+[![GitHub](https://img.shields.io/badge/GitHub-somyajangir-181717?style=flat-square&logo=github)](https://github.com/somyajangir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Somya%20Jangir-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/somya-jangir)
+[![Email](https://img.shields.io/badge/Email-somyajangir21%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:somyajangir21@gmail.com)
 
-🎓 B.Tech @ IIT Jodhpur (CGPA: 7.75)  
-🤖 Deep Learning Research Intern @ Axory AI (Deepfake Detection – 95% Val Accuracy)  
-🔬 Research Collaboration @ Verita AI (ASR Benchmarking & Error Analysis)  
+**AI & ML Engineer** • **LLMs & RAG Pipelines** • **Multi-Agent Systems** • **B.Tech @ IIT Jodhpur**
 
-I focus on building **end-to-end AI systems** — from model training and fine-tuning to production-grade deployment with secure architectures.
-
-Currently exploring:
-- Large Language Models (LLMs)
-- RAG Pipelines
-- Multi-Agent Orchestration
-- AI System Design
-- Model Benchmarking & Evaluation
-
-📫 Contact: **somyajangir21@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/somya-jangir  
-💻 All Projects: https://github.com/somyajangir  
+</div>
 
 ---
 
-# 🚀 Featured Projects  
+## 🎯 About Me
+
+I'm passionate about building **production-grade AI systems** that bridge research, engineering, and real-world impact. My focus is on creating end-to-end solutions—from model design and fine-tuning to deployment with secure, scalable architectures.
+
+<table>
+<tr>
+<td>
+
+🎓 **Education**  
+B.Tech @ IIT Jodhpur
+
+🤖 **Deep Learning Research**  
+Deepfake Detection at Axory AI (95% Val Accuracy)
+
+🔬 **AI Research**  
+ASR Benchmarking & Error Analysis at Verita AI
+
+</td>
+</tr>
+</table>
+
+### Currently Exploring
+- 🧠 Large Language Models & Fine-tuning (LoRA, QLoRA)
+- 🔍 RAG Pipelines & Vector Databases  
+- 🤝 Multi-Agent Orchestration & System Design  
+- 📊 Model Benchmarking & Evaluation Frameworks  
+- 🔐 Production AI with Secure Architectures  
 
 ---
 
-## 📖 PaperQA Section Tutor – AI Research Learning Agent  
-🔗 https://github.com/somyajangir/PaperQA-Tutor-Page-wise-Research-Assistant  
+## 🛠️ Tech Stack
 
-An intelligent AI agent designed to help users **learn research papers page-by-page** with contextual explanations, quizzes, and performance tracking.
+<div align="center">
 
-### 🔥 Highlights
-- Page-level + document-level RAG pipeline  
-- Sentence-transformer embeddings + vector database  
-- Fine-tuned Gemma (LoRA) for offline summarization  
-- Gemini Flash for explanations, grading, and quiz generation  
-- Streamlit interactive learning interface  
-- Citation-grounded Q&A  
+**Generative AI** | LLMs • Transformers • RAG • AI Agents • Fine-tuning • Vector Databases
 
-This project demonstrates applied LLM engineering, retrieval systems, and structured AI tutoring workflows.
+**Deep Learning** | CNN • RNN • LSTM • Transfer Learning • Computer Vision • Speech Processing
 
----
+**ML & Data** | PyTorch • Scikit-learn • Pandas • NumPy • Statistical Analysis
 
-## 🚀 Slack AI SQL Bot – Natural Language → Secure PostgreSQL Queries  
-🔗 https://github.com/somyajangir/Slack-AI-SQL-Bot  
+**Engineering** | FastAPI • PostgreSQL • LangChain • Streamlit
 
-AI-powered Slack bot that converts **plain English questions into real SQL queries** securely.
+**Languages** | Python • C++ • C • SQL
 
-Example: /ask-data show revenue by region
-
-
-### ⚙️ What It Does
-- Natural Language → SQL using Groq LLM  
-- Strict SELECT-only validation  
-- PostgreSQL execution with connection pooling  
-- Slack signature verification  
-- Async FastAPI backend  
-- Enterprise-style error handling  
-
-### 🏗 Tech Stack
-FastAPI • LangChain • Groq • PostgreSQL • Slack SDK • Python  
-
-This project demonstrates secure AI integration into production workflows with proper validation and performance optimization.
+</div>
 
 ---
 
-## 📚 Multi-PDF Chat Assistant (RAG System)  
-🔗 https://github.com/somyajangir/Chat-with-Multiple-PDFs-using-RAG-and-Gemini-Flash  
+## ⭐ Featured Projects
 
-Conversational system enabling Q&A across multiple PDFs.
+### 1️⃣ **PaperQA Section Tutor** – AI Research Learning Agent
+🔗 [View Repository](https://github.com/somyajangir/PaperQA-Tutor-Page-wise-Research-Assistant)
 
-### ✨ Features
-- FAISS vector search  
-- Gemini Flash integration  
-- Multi-document retrieval  
-- Context-aware responses  
-- Streamlit UI  
+> Intelligent AI agent helping users **master research papers** with page-by-page guidance, contextual explanations, and performance tracking.
 
-Built as a modular RAG pipeline to understand and retrieve information from large document collections.
+**Key Features:**
+- 📄 **Hierarchical RAG** — Page-level + document-level retrieval
+- 🔤 **Sentence Transformers** — High-quality embeddings + vector database
+- 🎯 **Fine-tuned Gemma (LoRA)** — Offline summarization capability
+- ✨ **Gemini Flash** — Explanations, quiz generation, and grading
+- 💬 **Citation-Grounded** — All answers backed by source material
+- 🎨 **Interactive UI** — Streamlit-powered learning experience
 
----
-
-## 🤖 AgentOS – Multi-Agent AI Orchestration System  
-🔗 https://github.com/somyajangir/AgentOS-Multi-Agent-AI-Orchestrator  
-
-A scalable **multi-agent system** featuring a centralized Router Agent that delegates tasks to specialized sub-agents (Support, Order, Billing).
-
-### 🧠 Architecture Highlights
-- Router Agent with hybrid intent classification  
-- Specialized child agents  
-- Controller–Service architecture  
-- PostgreSQL + Prisma ORM  
-- Context preservation across turns  
-- Rate limiting (Token Bucket implementation)  
-- Real-time reasoning visualization  
-
-### 🛠 Tech Stack
-Hono • React 19 • TailwindCSS • PostgreSQL • Google GenAI  
-
-This project simulates enterprise-grade AI orchestration systems with modular agent services.
+**Tech Stack:** `Python` `Streamlit` `RAG` `Gemma` `Gemini Flash` `Sentence Transformers`
 
 ---
 
-## 🧾 Fine-Tuning Gemma for Medical Summarization  
-🔗 https://github.com/somyajangir/Fine-Tuning-Gemma-2B-for-Medical-Summarization  
+### 2️⃣ **Slack AI SQL Bot** – Natural Language → Secure SQL Queries
+🔗 [View Repository](https://github.com/somyajangir/Slack-AI-SQL-Bot)
 
-- PEFT (LoRA + QLoRA) fine-tuning  
-- Clinical note summarization  
-- Efficient training workflows  
-- Domain adaptation experiments  
+> Production-style Slack bot converting **plain English into secure PostgreSQL queries** with validation and error handling.
 
----
+**Key Features:**
+- 🤖 **LLM-Powered SQL Generation** — Groq LLM for real-time query building
+- 🔒 **Security First** — SELECT-only validation, no injection vulnerabilities
+- ⚡ **High Performance** — Connection pooling, async FastAPI backend
+- ✅ **Signature Verification** — Enterprise-grade Slack integration
+- 🛡️ **Error Handling** — Graceful failure modes and user feedback
 
-## 🗣️ Voice-Enabled Conversational AI  
-🔗 https://github.com/somyajangir/Voice-Enabled-Interactive-Chatbot  
-
-- Real-time STT + TTS  
-- Multi-turn conversation memory  
-- Gemini integration  
-- Context retention  
+**Tech Stack:** `FastAPI` `LangChain` `Groq` `PostgreSQL` `Slack SDK` `Python`
 
 ---
 
-## 🩻 Deep Learning Projects  
+### 3️⃣ **AgentOS** – Multi-Agent AI Orchestration System
+🔗 [View Repository](https://github.com/somyajangir/AgentOS-Multi-Agent-AI-Orchestrator)
 
-### COVID-19 Detection Using X-ray Images  
-- CNN-based classifier  
-- Transfer learning  
-- Data augmentation  
-- Robust evaluation workflow  
+> Scalable multi-agent architecture featuring a **Router Agent** delegating tasks to specialized sub-agents (Support, Order, Billing).
 
----
+**Key Features:**
+- 🎛️ **Hybrid Intent Classification** — Router agent for intelligent task delegation
+- 👥 **Specialized Sub-Agents** — Domain-specific worker agents
+- 🏗️ **Controller-Service Pattern** — Clean separation of concerns
+- 💾 **Persistent State** — PostgreSQL + Prisma ORM
+- 📊 **Real-time Visualization** — Agent reasoning in action
+- ⏱️ **Rate Limiting** — Token bucket implementation for stability
 
-# 🔬 Research Work  
-
-### 📊 Startup Funding in India – Data Science Research  
-🔗 https://drive.google.com/file/d/1RbE3B4pXKJ1etx7VPixXjC62H8rkc9-Y/view  
-
-- Empirical study on 585 startups (2019–21)  
-- Consolidated 200+ industries into 21 categories  
-- Feature engineering & funding trend analysis  
-
-### 🎙 ASR Benchmarking Study (Verita AI Collaboration)  
-- Benchmarked Whisper, Wav2Vec 2.0, SpeechBrain CRDNN  
-- Evaluated WER, CER, latency, GPU usage, cost  
-- Conducted detailed architectural error analysis  
+**Tech Stack:** `Hono` `React 19` `TailwindCSS` `PostgreSQL` `Google GenAI`
 
 ---
 
-# 🛠 Technical Skills  
+### 4️⃣ **Multi-PDF Chat Assistant** – Conversational RAG System
+🔗 [View Repository](https://github.com/somyajangir/Chat-with-Multiple-PDFs-using-RAG-and-Gemini-Flash)
 
-### 🤖 Generative AI
-LLMs • Transformers • RAG • AI Agents • LoRA / QLoRA • Vector Databases  
+> Intelligent Q&A system enabling **natural conversations across multiple PDF documents**.
 
-### 📊 Machine Learning
-Linear & Logistic Regression • KNN • SVM • PCA • Decision Trees • Random Forest  
+**Key Features:**
+- 📚 **Multi-Document Retrieval** — FAISS vector search
+- 🔗 **Context-Aware Responses** — Gemini Flash integration
+- 💬 **Conversational Memory** — Multi-turn dialogue support
+- 🎨 **Interactive UI** — Streamlit interface
 
-### 🧠 Deep Learning
-CNN • RNN • LSTM • Transfer Learning • Speech Processing  
-
-### 🧪 Evaluation
-Model Benchmarking • Error Analysis • Performance Profiling  
-
-### 💻 Programming
-Python • C++ • C  
-
-### 🔧 Tools
-PyTorch • Scikit-learn • Pandas • NumPy • Git • Streamlit • PostgreSQL  
+**Tech Stack:** `FAISS` `Gemini Flash` `Streamlit` `Python`
 
 ---
 
-# 📈 GitHub Stats  
+### 5️⃣ **Fine-Tuning Gemma for Medical Summarization**
+🔗 [View Repository](https://github.com/somyajangir/Fine-Tuning-Gemma-2B-for-Medical-Summarization)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somyajangir&show_icons=true&theme=tokyonight" width="48%" />
-</p>
+> Domain-adapted Gemma model for **clinical note summarization** using efficient fine-tuning.
 
----
+**Key Features:**
+- 🎯 **PEFT Methods** — LoRA & QLoRA for parameter-efficient training
+- 🏥 **Clinical Domain** — Medical note summarization
+- ⚡ **Efficient Training** — Low-resource adaptation
+- 📈 **Rigorous Evaluation** — Domain adaptation experiments
 
-# 🧠 What I’m Currently Building  
-
-- Multi-agent production AI systems  
-- Secure LLM integrations  
-- Retrieval-augmented pipelines  
-- Research-driven AI applications  
+**Tech Stack:** `PyTorch` `Hugging Face` `PEFT` `Transformers`
 
 ---
 
-⭐ If you find my work interesting, feel free to connect or collaborate!
+### 6️⃣ **Voice-Enabled Conversational AI**
+🔗 [View Repository](https://github.com/somyajangir/Voice-Enabled-Interactive-Chatbot)
+
+> Real-time voice interface for **conversational AI** with speech-to-text and text-to-speech.
+
+**Features:** Real-time STT • TTS Integration • Multi-turn Memory • Gemini Backend • Context Retention
+
+---
+
+### 7️⃣ **COVID-19 Detection from X-rays**
+
+Deep learning classifier for medical imaging using transfer learning and robust evaluation frameworks.
+
+**Techniques:** CNN • Transfer Learning • Data Augmentation • Comprehensive Metrics
+
+---
+
+## 📊 Research & Analysis
+
+### Startup Funding in India – Data Science Research
+🔗 [View Research Paper](https://drive.google.com/file/d/1RbE3B4pXKJ1etx7VPixXjC62H8rkc9-Y/view)
+
+📈 **Empirical study analyzing funding trends across 585 startups (2019–2021)**
+- Consolidated 200+ industries into 21 strategic categories
+- Feature engineering & trend analysis  
+- Data-driven insights on startup ecosystems
+
+---
+
+### ASR Benchmarking Study – Verita AI Collaboration
+🔗 [View Research Paper](https://drive.google.com/file/d/101FfURt_ukyokYcPZHAjW2cJ5ZjW7dsq/view)
+
+🎙️ **Comprehensive evaluation of state-of-the-art speech recognition models**
+- Benchmarked: Whisper, Wav2Vec 2.0, SpeechBrain CRDNN
+- Metrics: WER, CER, Latency, GPU Usage, Cost Analysis
+- Detailed architectural error analysis for production deployment
+
+---
+
+## 💡 Key Strengths
+
+<div align="center">
+
+| Domain | Expertise |
+|--------|-----------|
+| **Generative AI** | LLMs, RAG, Prompt Engineering, Fine-tuning |
+| **System Design** | Multi-agent orchestration, API design, scalability |
+| **Production ML** | Model evaluation, benchmarking, error analysis |
+| **Data Engineering** | ETL, Vector Databases, PostgreSQL, Caching |
+| **Full-Stack** | Frontend (React) + Backend (FastAPI, Hono) + Database |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/somyajangir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somyajangir&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyajangir&layout=compact&theme=tokyonight" />
+</a>
+
+</div>
+
+---
+
+## 🎯 What's Next?
+
+I'm actively working on:
+- 🔗 Production-scale multi-agent systems
+- 🔐 Secure LLM integrations & guardrails
+- 📚 Advanced RAG architectures
+- 🧪 Research-driven AI applications
+- 📊 Real-time monitoring & observability
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+👉 **I'm open to collaboration, research partnerships, and discussing AI system design!**
+
+[![Email](https://img.shields.io/badge/Email-somyajangir21%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:somyajangir21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Somya%20Jangir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/somya-jangir)
+[![GitHub](https://img.shields.io/badge/GitHub-somyajangir-black?style=for-the-badge&logo=github)](https://github.com/somyajangir)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, consider giving my repos a star! It helps me stay motivated to build better things. 🚀
+
+</div>
