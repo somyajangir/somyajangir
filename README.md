@@ -19,8 +19,8 @@
 I'm passionate about building **production-grade AI systems** that bridge research, engineering, and real-world impact. My focus is on creating end-to-end solutions—from model design and fine-tuning to deployment with secure, scalable architectures.
 
 **🎓 Education:** B.Tech @ IIT Jodhpur  
-**🤖 Deep Learning Research:** Deepfake Detection at Axory AI (95% Val Accuracy)  
-**🔬 AI Research:** ASR Benchmarking & Error Analysis at Verita AI  
+**🤖 Deep Learning Research Intern:** Deepfake Detection at Axory AI (95% Val Accuracy)  
+**🔬 AI Research collaboration:** ASR Benchmarking & Error Analysis at Verita AI  
 
 ### Currently Exploring
 - 🧠 Large Language Models & Fine-tuning (LoRA, QLoRA)
